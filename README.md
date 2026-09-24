@@ -11,8 +11,8 @@
 This project is a desktop application built using **Java 21**, **JavaFX**, **Gradle**, and **IntelliJ IDEA**. It demonstrates basic JavaFX GUI components, event handling with buttons, and scene construction.
 
 ##  Requirements & Tools Used
-* **JDK 21** (LTS)
-* **Gradle 9.x** (or compatible wrapper)
+* **JDK 21.0.12.1** (LTS)
+* **Gradle 9.7.1** (or compatible wrapper)
 * **JavaFX 21**
 * **Git** for version control
 
