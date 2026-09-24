@@ -12,7 +12,7 @@ This project is a desktop application built using **Java 21**, **JavaFX**, **Gra
 
 ##  Requirements & Tools Used
 * **JDK 21.0.12.1** (LTS)
-* **Gradle 9.7.1** (or compatible wrapper)
+* **Gradle 9.7.1** 
 * **JavaFX 21**
 * **Git** for version control
 
